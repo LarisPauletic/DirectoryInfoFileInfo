@@ -1,0 +1,7 @@
+C:\Users\Laris\source\repos\DirectoryInfoIFileInfo\DirectoryInfoIFileInfo\bin\Debug\DirectoryInfoIFileInfo.exe.config
+C:\Users\Laris\source\repos\DirectoryInfoIFileInfo\DirectoryInfoIFileInfo\bin\Debug\DirectoryInfoIFileInfo.exe
+C:\Users\Laris\source\repos\DirectoryInfoIFileInfo\DirectoryInfoIFileInfo\bin\Debug\DirectoryInfoIFileInfo.pdb
+C:\Users\Laris\source\repos\DirectoryInfoIFileInfo\DirectoryInfoIFileInfo\obj\Debug\DirectoryInfoIFileInfo.csprojAssemblyReference.cache
+C:\Users\Laris\source\repos\DirectoryInfoIFileInfo\DirectoryInfoIFileInfo\obj\Debug\DirectoryInfoIFileInfo.csproj.CoreCompileInputs.cache
+C:\Users\Laris\source\repos\DirectoryInfoIFileInfo\DirectoryInfoIFileInfo\obj\Debug\DirectoryInfoIFileInfo.exe
+C:\Users\Laris\source\repos\DirectoryInfoIFileInfo\DirectoryInfoIFileInfo\obj\Debug\DirectoryInfoIFileInfo.pdb
